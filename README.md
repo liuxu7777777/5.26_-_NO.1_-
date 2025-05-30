@@ -1,4 +1,4 @@
-# 5.26_-_NO.1_OCR
+# 5.26_浙江邮电职业技术学院_网信安技能培训第一天_代码NO.1_OCR识别
 
 网信安技术培训_5.26_第一天_第一个代码_正则表达式
 
@@ -15,3 +15,6 @@ png文件夹内存放的是示例图片，需要把png文件夹和代码放在�
 运行结果示例：
 For image hHEm7ckm1vnLiuu2om.png: name:34, phone:0, address:0, ssn:34, bankcard:0
 Processing image: IAz8DZlV43HKXVf5sG.png
+...
+Total counts across all images:
+name: 653, phone: 806, address: 526, ssn: 765, bankcard: 777
